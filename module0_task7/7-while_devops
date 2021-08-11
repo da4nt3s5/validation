@@ -1,0 +1,9 @@
+#!/bin/bash 
+l=1
+while [ $l -le 10 ]
+do
+echo DevOps
+((l++))
+done
+exit
+
