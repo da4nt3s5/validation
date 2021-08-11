@@ -1,3 +1,6 @@
-echo "$HOME"
+#!/bin/bash
+
+pwd /home
+
 exit
 
